@@ -1,0 +1,28 @@
+﻿  InterfazMFCDlg.cpp
+c:\users\usuario\documents\visual studio 2017\proyectos opencv\interfazmfc\interfazmfc\interfazmfcdlg.cpp(247): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\usuario\documents\visual studio 2017\proyectos opencv\interfazmfc\interfazmfc\interfazmfcdlg.cpp(265): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\usuario\documents\visual studio 2017\proyectos opencv\interfazmfc\interfazmfc\interfazmfcdlg.cpp(300): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\usuario\documents\visual studio 2017\proyectos opencv\interfazmfc\interfazmfc\interfazmfcdlg.cpp(321): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\usuario\documents\visual studio 2017\proyectos opencv\interfazmfc\interfazmfc\interfazmfcdlg.cpp(346): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\usuario\documents\visual studio 2017\proyectos opencv\interfazmfc\interfazmfc\interfazmfcdlg.cpp(338): warning C4101: 'raiz': variable local sin referencia
+  InterfazMFC.vcxproj -> C:\Users\USUARIO\Documents\Visual Studio 2017\Proyectos OPENCV\InterfazMFC\x64\Debug\InterfazMFC.exe
